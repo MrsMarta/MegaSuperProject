@@ -1,1 +1,2 @@
 C:\Users\poljakov\Documents\MegaSuperProject\MegaSuperProject\MegaSuperProject\bin\Debug\MegaSuperProject.exe.config
+C:\Users\a.novikov.GAZPROMCENTER\Source\Repos\MegaSuperProject\MegaSuperProject\MegaSuperProject\bin\Debug\MegaSuperProject.exe.config
